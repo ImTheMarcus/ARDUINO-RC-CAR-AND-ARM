@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../BLUETOOTH_CTRL"
+		},
+		{
+			"name": "Bluetooth_RC_Car",
+			"path": "../../../../../../Documents/PlatformIO/Projects/Bluetooth_RC_Car"
+		},
+		{
+			"name": "Stepper_Motor_MK1",
+			"path": "../../Stepper_Motor_MK1"
+		},
+		{
+			"name": "ARM_SERVO",
+			"path": "../../ARM_SERVO"
+		},
+		{
+			"name": "StepperRevolution",
+			"path": "../../StepperRevolution"
+		},
+		{
+			"name": "BT_Car_Robotic_Arm",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
